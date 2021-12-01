@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome to the official QuatschFisch Development Website
 
-You can use the [editor on GitHub](https://github.com/QuatschFisch/QuatschFisch.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here you find (hopefully) everything your looking for. 
+Check out my <a href="https://quatschFisch.tk/" target="_blank"  title="HomePage">Homepage.</a>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Discord Bots
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In the Past, I wrote a couple of Discord Bot. Note that all of them are closed Source. 
 
-```markdown
-Syntax highlighted code block
+### <a href="https://discordapp.com/api/oauth2/authorize?client_id=665962875977990154&permissions=275149942006&scope=bot" target="_blank"  title="Aura invite link">Aura</a>
+Aura is my biggest Discord bot. It get updates from time to time and is in active development.
+###  <a href="https://discord.com/oauth2/authorize?client_id=736191454384226355&permissions=268528710&scope=bot" target="_blank"  title="Russian Roulett invite link">Russian Roulette</a>
+This is a Bot that i made for fun, it's functining not correctly for mute roles. I want to update it, but somehow i don't... 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QuatschFisch/QuatschFisch.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Please Contact me for any errors or Missspellings. 
+Quatschfisch@gmail.com
+
